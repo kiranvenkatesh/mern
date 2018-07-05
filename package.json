@@ -1,0 +1,8 @@
+{
+  "name": "mern_app",
+  "version": "1.0.0",
+  "description": "Sample mern stack app",
+  "main": "index.js",
+  "author": "Kiran Rangula",
+  "license": "MIT"
+}
